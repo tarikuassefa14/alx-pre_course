@@ -1,6 +1,2 @@
-touch
-echo
-cat
-git add .
-git commit -m
+
 git push
